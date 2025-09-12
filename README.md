@@ -62,11 +62,9 @@ I’m a **Software Developer** specialized in **ASP.NET technologies** with hand
 ---
 
 ## 🎓 Certifications  
-- ✅ <img src="https://cdn-icons-png.flaticon.com/512/732/732222.png" width="20"/> **Introduction to Modern Technologies of Artificial Intelligence** – *Water Technology Experts Academy & Forum (2023)*  
-
-- ✅ <img src="https://cdn-icons-png.flaticon.com/512/732/732228.png" width="20"/> **CCNA** – *NTI (National Telecommunication Institute, 2024)*  
-
-- ✅ <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="20"/> **ASP.NET Core** – *Route Academy (2024)*  
+- ✅ **Introduction to Modern Technologies of Artificial Intelligence** – *Water Technology Experts Academy & Forum (2023)*
+- ✅ **CCNA** – *NTI (National Telecommunication Institute, 2024)*
+- ✅ **ASP.NET Core** – *Route Academy (2024)*  
 
 
 ---
