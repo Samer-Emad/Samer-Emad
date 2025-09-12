@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Samer Emad
+<h1>👋 Hey, I'm Samer Emad</h1>
 
 ---
 
