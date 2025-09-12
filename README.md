@@ -57,7 +57,9 @@
 - ✅ **CCNA** from **NTI (National Telecommunication Institute)**
 - ✅ **ASP.NET Core** from **Route Academy**
 
-### 📂 CS Concepts
+---
+
+## 📂 CS Concepts
 - Data Structures & Algorithms  
 - Object Oriented Programming (OOP)  
 - Database Design & SQL  
