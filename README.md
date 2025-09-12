@@ -1,4 +1,4 @@
-##👋 Hey, I'm Samer Emad
+# 👋 Hey, I'm Samer Emad
 
 ---
 
