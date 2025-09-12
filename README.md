@@ -33,6 +33,8 @@ I’m a **Software Developer** specialized in **ASP.NET technologies** with hand
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="35" alt="JavaScript"/>
 </p>
 
+---
+
 ### ⚙️ Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
@@ -42,6 +44,8 @@ I’m a **Software Developer** specialized in **ASP.NET technologies** with hand
   <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="LINQ"/>
   <img src="https://img.shields.io/badge/API-005571?style=for-the-badge&logo=swagger&logoColor=white" alt="API"/>
 </p>
+
+---
 
 ### 📘 Core Competencies
 <p align="center">
@@ -53,6 +57,8 @@ I’m a **Software Developer** specialized in **ASP.NET technologies** with hand
   <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=apachespark&logoColor=white" alt="Algorithms"/>
   <img src="https://img.shields.io/badge/Database%20Design-4DB33D?style=for-the-badge&logo=databricks&logoColor=white" alt="Database Design"/>
 </p>
+---
+
 
 ### 🛠️ Tools
 <p align="center">
