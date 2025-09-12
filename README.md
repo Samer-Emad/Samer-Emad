@@ -2,7 +2,6 @@
   <img src="undefined - Imgur.gif" alt="Developer GIF" width="600"/>  
 </p>
 
----
 
 # 👋 Hey, I'm Samer Emad
 ## 🚀 About Me
