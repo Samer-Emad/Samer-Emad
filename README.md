@@ -59,15 +59,6 @@
 
 ---
 
-## 📂 Programming & CS Knowledge
-- Data Structures & Algorithms  
-- Object Oriented Programming (OOP)  
-- Database Design & SQL  
-- LINQ, EF Core, MVC  
-- Software Architecture & APIs  
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Samer-Emad&show_icons=true&theme=tokyonight" alt="stats"/>
