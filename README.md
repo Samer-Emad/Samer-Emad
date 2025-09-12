@@ -9,10 +9,11 @@
 
 ## 🚀 About Me  
 I’m a **Software Developer** specialized in **ASP.NET technologies** with hands-on experience in:  
-- Building modern web apps using **ASP.NET (MVC, API, EF Core)**  
+- Building modern web apps using **ASP.NET (MVC, API, EF Core, LINQ)**  
 - Writing efficient and maintainable code in **C#, C++, Python**  
-- Designing scalable **databases** and crafting optimized **SQL queries**  
-- Applying **SOLID Principles & Design Patterns** in real projects  
+- Designing scalable **Databases** and crafting optimized **SQL Queries**  
+- Applying **SOLID Principles & Design Patterns** in real projects
+- Applying **Object-Oriented Programming (OOP)** to build scalable and reusable solutions
 - Solving challenges with **Algorithms & Data Structures**
 - 📄 You can see [My Resume](https://drive.google.com/file/d/1itJLvfZem4j4Y4RzVoQ4og69JY05RiNi/view?usp=drive_link)  
 
@@ -61,9 +62,12 @@ I’m a **Software Developer** specialized in **ASP.NET technologies** with hand
 ---
 
 ## 🎓 Certifications  
-- ✅ **Introduction to Modern Technologies of Artificial Intelligence** – *Water Technology Experts Academy & Forum (2023)*  
-- ✅ **CCNA** – *NTI (National Telecommunication Institute, 2024)*  
-- ✅ **ASP.NET Core** – *Route Academy (2024)*  
+- ✅ <img src="https://cdn-icons-png.flaticon.com/512/732/732222.png" width="20"/> **Introduction to Modern Technologies of Artificial Intelligence** – *Water Technology Experts Academy & Forum (2023)*  
+
+- ✅ <img src="https://cdn-icons-png.flaticon.com/512/732/732228.png" width="20"/> **CCNA** – *NTI (National Telecommunication Institute, 2024)*  
+
+- ✅ <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="20"/> **ASP.NET Core** – *Route Academy (2024)*  
+
 
 ---
 
@@ -71,10 +75,22 @@ I’m a **Software Developer** specialized in **ASP.NET technologies** with hand
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Samer-Emad&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samer-Emad&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samer-Emad&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
+## 📞 Contact Me  
+<p align="center">
+  <a href="https://wa.me/201062227503">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30" alt="WhatsApp"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="mailto:sameremadwasfy1@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="30" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
 ## 🌐 Social Media  
 <p align="center">
   <a href="https://www.facebook.com/samer.emad.763112?mibextid=ZbWKwL">
@@ -93,17 +109,3 @@ I’m a **Software Developer** specialized in **ASP.NET technologies** with hand
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="30" alt="X"/>
   </a>
 </p>
-
----
-
-## 📞 Contact Me  
-<p align="center">
-  <a href="https://wa.me/201062227503">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30" alt="WhatsApp"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="mailto:sameremadwasfy1@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="30" alt="Gmail"/>
-  </a>
-</p>
-
