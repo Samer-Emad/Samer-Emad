@@ -13,10 +13,10 @@ I’m a **Software Developer** specialized in **ASP.NET technologies** with hand
 - Writing efficient and maintainable code in **C#, C++, Python**  
 - Designing scalable **databases** and crafting optimized **SQL queries**  
 - Applying **SOLID Principles & Design Patterns** in real projects  
-- Solving challenges with **Algorithms & Data Structures**  
+- Solving challenges with **Algorithms & Data Structures**
+- 📄 You can see [My Resume](https://drive.google.com/file/d/1itJLvfZem4j4Y4RzVoQ4og69JY05RiNi/view?usp=drive_link)  
 
 ⚡ Always learning, always coding, always improving.  
-📄 [My Resume](https://drive.google.com/file/d/1itJLvfZem4j4Y4RzVoQ4og69JY05RiNi/view?usp=drive_link)  
 
 ---
 
