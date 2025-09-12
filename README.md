@@ -1,3 +1,4 @@
+# 👋 Hey, I'm Samer Emad
 ---
 <p align="center">  
   <img src="undefined - Imgur.gif" alt="Developer GIF" width="600"/>  
@@ -5,7 +6,6 @@
 
 ---
 
-# 👋 Hey, I'm Samer Emad
 ## 🚀 About Me
 💻 I'm a **Software Developer** passionate about:
 - Building modern web apps with **ASP.NET (MVC, API, EF Core)**
