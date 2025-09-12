@@ -1,5 +1,5 @@
 ---
-<h1>👋 Hey, I'm Samer Emad</h1>
+# 👋 Hey, I'm Samer Emad
 
 <p align="center">  
   <img src="undefined - Imgur.gif" alt="Developer GIF" width="600"/>  
