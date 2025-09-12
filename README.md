@@ -59,7 +59,7 @@
 
 ---
 
-## 📂 CS Concepts
+## 📂 Programming & CS Knowledge
 - Data Structures & Algorithms  
 - Object Oriented Programming (OOP)  
 - Database Design & SQL  
