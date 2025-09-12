@@ -19,11 +19,6 @@
 
 ⚡ Always learning, always coding, always improving.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samer-Emad&style=flat&color=blue" alt="profile views"/>
-</p>
-
-
 ---
 
 ## 🛠️ Tech Stack  
