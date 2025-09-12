@@ -53,10 +53,11 @@
 ---
 
 ## 🎓 Certifications
-
+- ✅ **Introduction to Modern Technologies of Artificial Intelligence** from **Water Technology Experts Academy & Forum**
 - ✅ **CCNA** from **NTI (National Telecommunication Institute)**
+- ✅ **ASP.NET Core** from **Route Academy**
 
-### 📂 Concepts
+### 📂 CS Concepts
 - Data Structures & Algorithms  
 - Object Oriented Programming (OOP)  
 - Database Design & SQL  
