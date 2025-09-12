@@ -44,11 +44,17 @@
   <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="LINQ"/>
   <img src="https://img.shields.io/badge/API-005571?style=for-the-badge&logo=swagger&logoColor=white" alt="API"/>
   <img src="https://img.shields.io/badge/Software%20Architecture-FF4088?style=for-the-badge&logo=archlinux&logoColor=white" alt="Software Architecture"/>
+  <img src="https://img.shields.io/badge/SOLID%20Principles-000000?style=for-the-badge&logo=abstract&logoColor=white" alt="SOLID Principles"/>
+  <img src="https://img.shields.io/badge/Design%20Patterns-006699?style=for-the-badge&logo=codeforces&logoColor=white" alt="Design Patterns"/>
   <img src="https://img.shields.io/badge/Database%20Design-4DB33D?style=for-the-badge&logo=databricks&logoColor=white" alt="Database Design"/>
   <img src="https://img.shields.io/badge/Data%20Structures-02569B?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Structures"/>
   <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=apachespark&logoColor=white" alt="Algorithms"/>
   <img src="https://img.shields.io/badge/OOP-0081CB?style=for-the-badge&logo=graphql&logoColor=white" alt="OOP"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
