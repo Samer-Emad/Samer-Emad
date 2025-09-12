@@ -8,7 +8,7 @@
 
 
 ## 🚀 About Me  
-I’m a **Software Developer** specialized in **.NET technologies** with hands-on experience in:  
+I’m a **Software Developer** specialized in **ASP.NET technologies** with hands-on experience in:  
 - Building modern web apps using **ASP.NET (MVC, API, EF Core)**  
 - Writing efficient and maintainable code in **C#, C++, Python**  
 - Designing scalable **databases** and crafting optimized **SQL queries**  
@@ -75,16 +75,32 @@ I’m a **Software Developer** specialized in **.NET technologies** with hands-o
 </p>
 
 ---
+### 🌐 Social Media    
+  <a href="https://www.facebook.com/samer.emad.763112?mibextid=ZbWKwL">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30" alt="Facebook"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/samer-emad-se1112004">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733561.png" width="30" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/samer_zaki_1">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" width="30" alt="Instagram"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://x.com/Samer_Eamd">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="30" alt="X"/>
+  </a>
+</p>
 
-## 📞 Contact Me  
+## 📞 Contact Me
+<p align="center">
+  <a href="https://wa.me/201062227503">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30" alt="WhatsApp"/>
+  </a>&nbsp;&nbsp;
 <p align="center">
   <a href="mailto:sameremadwasfy1@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="30" alt="Gmail"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/samer-emad-se1112004">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733561.png" width="30" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Samer-Emad">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="30" alt="GitHub"/>
   </a>
 </p>
