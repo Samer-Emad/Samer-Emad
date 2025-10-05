@@ -81,15 +81,6 @@ I’m a **Software Developer** specialized in **ASP.NET technologies** with hand
 - ✅ **CCNA** – *NTI (National Telecommunication Institute, 2024)*
 - ✅ **ASP.NET Core** – *Route Academy (2024)*  
 
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samer-Emad&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samer-Emad&theme=tokyonight"/>
-</p>
-
 ---
 
 ## 🌐 Social Media  
