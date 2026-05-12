@@ -16,7 +16,7 @@ I’m a **Software Developer** specialized in **ASP.NET technologies** with hand
 - Applying **SOLID Principles & Design Patterns** in real projects
 - Applying **Object-Oriented Programming (OOP)** to build scalable and reusable solutions
 - Solving challenges with **Algorithms & Data Structures**
-- 📄 You can see [My Resume](https://drive.google.com/file/d/1itJLvfZem4j4Y4RzVoQ4og69JY05RiNi/view?usp=drive_link)  
+- 📄 You can see [My Resume]([https://drive.google.com/file/d/1itJLvfZem4j4Y4RzVoQ4og69JY05RiNi/view?usp=drive_link](https://drive.google.com/file/d/1l8Fnf0zMDUEOoER4zoCfdS-UKJxgz9cI/view?usp=drive_link))  
 
 ⚡ Always learning, always coding, always improving.  
 
