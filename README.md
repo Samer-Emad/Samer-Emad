@@ -16,7 +16,8 @@ I’m a **Software Developer** specialized in **ASP.NET technologies** with hand
 - Applying **SOLID Principles & Design Patterns** in real projects
 - Applying **Object-Oriented Programming (OOP)** to build scalable and reusable solutions
 - Solving challenges with **Algorithms & Data Structures**
-- 📄 You can see [My Resume](https://drive.google.com/file/d/1xm1GA4tnkYoimnXqoQPbpwXptYTkHnap/view?usp=drive_link)  
+- 📄 You can see [My Resume](https://drive.google.com/file/d/1xm1GA4tnkYoimnXqoQPbpwXptYTkHnap/view?usp=drive_link)
+- 📄 You can see [My Portfolio](https://samer-emad-portfolio.vercel.app/)
 
 ⚡ Always learning, always coding, always improving.  
 
